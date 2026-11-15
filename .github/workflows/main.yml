@@ -1,5 +1,4 @@
-
-name: Build Himanshu Dairy Farm APK
+: Build Himanshu Dairy Farm APK
 
 on:
   workflow_dispatch:
